@@ -5,3 +5,5 @@ At the end of the quiz the score is displayed.
 
 CHECK OUT THE APP HERE:
 https://replit.com/@Serene2705/How-well-do-you-know-me?v=1
+
+Small change
